@@ -1,10 +1,7 @@
 <h1 align="center">Hey, I'm Rajesh Alachandra 👋</h1>
-<h3 align="center">Full-Stack Developer | Shipping Production-Ready SaaS & Web Apps from Hyderabad</h3>
+<h3 align="center">Full-Stack Developer | Shipping Production-Ready SaaS & Web Apps </h3>
 
 <p align="center">
-  <a href="https://reporiser.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-reporiser.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="mailto:rajeshalachandra001@gmail.com">
     <img src="https://img.shields.io/badge/Email-rajeshalachandra001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -13,20 +10,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajesh-alachandra&label=Profile views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad, India-blue" />
-  <img src="https://img.shields.io/badge/Projects Shipped-18%2B-green" />
-  <img src="https://img.shields.io/badge/Fixed Price-%E2%82%B94.9L--%E2%82%B915L-brightgreen" />
-</p>
-
 <br/>
 
 ### What I Do
 I build **end-to-end web & mobile applications** for startups and businesses using the modern MERN stack + Next.js.  
 From pixel-perfect UI to scalable backend & mobile apps — I ship fast, clean, production-ready code.
 
-**3+ years** | Hyderabad-based | Worked with Dcode Creative, Galaxy Tech, Vibho & Presentience
+**4+ years** | Hyderabad-based | Worked with Dcode Creative, Galaxy Tech, Vibho & Presentience
 
 <br/>
 
