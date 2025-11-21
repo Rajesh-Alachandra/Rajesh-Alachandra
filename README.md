@@ -28,13 +28,13 @@ I build **production-ready SaaS products**, high-performance web apps, and mobil
 
 
 
-###  Professional Experience
+### Professional Experience
 
 Dcode Creative Solutions  
 Galaxy Tech Solutions  
-Vibho Technologies  
-Presentience Technologies  
+Vibho Technologies (formerly Presentience Technologies)  
 **Hyderabad • 2021 — Present**
+
 
 
 
