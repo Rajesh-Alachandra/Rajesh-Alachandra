@@ -1,24 +1,81 @@
-<h1 align="center">Hi 👋, I'm Rajesh Alachandra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey, I'm Rajesh Alachandra 👋</h1>
+<h3 align="center">Full-Stack Developer | Shipping Production-Ready SaaS & Web Apps from Hyderabad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-alachandra&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-alachandra" /> </p>
-
-- 🌱 I’m currently learning **MERN stack**
-
-- 💬 Ask me about **Reactjs**
-
-- 📫 How to reach me **rajeshalachandra@gmail.com**
-
-- ⚡ Fun fact **I think Im Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajesh-alachandra-0b5714254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-alachandra-0b5714254" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://reporiser.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-reporiser.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:rajeshalachandra001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajeshalachandra001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://calendly.com/rajesh-reporiser/15min" target="_blank">
+    <img src="https://img.shields.io/badge/Book a Call-15 min-0E75B6?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajesh-alachandra&label=Profile views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad, India-blue" />
+  <img src="https://img.shields.io/badge/Projects Shipped-18%2B-green" />
+  <img src="https://img.shields.io/badge/Fixed Price-%E2%82%B94.9L--%E2%82%B915L-brightgreen" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-alachandra&show_icons=true&locale=en&layout=compact" alt="rajesh-alachandra" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-alachandra&show_icons=true&locale=en" alt="rajesh-alachandra" /></p>
+### What I Do
+I build **end-to-end web & mobile applications** for startups and businesses using the modern MERN stack + Next.js.  
+From pixel-perfect UI to scalable backend & mobile apps — I ship fast, clean, production-ready code.
+
+**3+ years** | Hyderabad-based | Worked with Dcode Creative, Galaxy Tech, Vibho & Presentience
+
+<br/>
+
+### Recent Projects I've Shipped
+| Project            | Domain               | Stack                              | Link                     |
+|-------------------|----------------------|------------------------------------|--------------------------|
+| DishaAi           | Career Guidance SaaS | MERN + Dashboard                   | Live                     |
+| Roast             | Cake Ordering        | MERN + Real-time Tracking          | roastcafe.in            |
+| Way2Landmark      | Real Estate          | MERN + Role-based Dashboard        | way2landmark.com        |
+| Haazri            | HRM & Payroll        | React + Node + MongoDB             | haazri.cloud            |
+| Bingenfeast       | Theatre Booking      | React Native + Stripe              | bingenfeast.com         |
+| DrMarins          | Healthcare App       | React + Material-UI                | drmarins.cloud          |
+| Bhaley            | Food Delivery        | MERN + Payment Gateway             | bhaley.in               |
+| Sams Matrimony    | Matrimonial App      | React Native + Chat                | samsmatrimony.com       |
+
+Full case studies → [reporiser.com/work](https://reporiser.com/work)
+
+<br/>
+
+### Tech Stack I Work With Daily
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,redux,typescript,prisma,supabase,stripe,git,github,figma,vite,vercel,docker,jest&perline=9" />
+</p>
+
+**Frontend:** React, Next.js 15, TypeScript, Tailwind CSS, Redux Toolkit, Shadcn/UI  
+**Backend:** Node.js, Express, REST & GraphQL APIs  
+**Database:** MongoDB, PostgreSQL, Supabase  
+**Mobile:** React Native  
+**Others:** JWT Auth, CI/CD, Jest, Docker, Stripe, SEO, Agile/Scrum
+
+<br/>
+
+### GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajesh-alachandra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-alachandra&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-alachandra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+</p>
+
+<br/>
+
+### Let's Build Something Awesome
+Got a SaaS idea? Need a fixed-price MVP in 4–8 weeks?
+
+**Book a free 15-min call** → [calendly.com/rajesh-reporiser](https://calendly.com/rajesh-reporiser/15min)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Ws7T8IGE4H5nZt5v9X/giphy.gif" width="200"/>
+</p>
