@@ -2,8 +2,10 @@
 **Full-Stack Developer • Hyderabad, India**
 
 [![Email](https://img.shields.io/badge/Email-rajeshalachandra001%40gmail.com-6C63FF?style=for-the-badge)](mailto:rajeshalachandra001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-reporiser.netlify.app-6C63FF?style=for-the-badge)](https://reporiser.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajeshalachandra.netlify.app-6C63FF?style=for-the-badge)](https://rajeshalachandra.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-reporiser.app-6C63FF?style=for-the-badge)](https://reporiser.app/)
 ![Phone](https://img.shields.io/badge/Phone-+91%207661971432-6C63FF?style=for-the-badge)
+
 
 I build **production-ready SaaS products**, high-performance web apps, and mobile applications using  
 **React, Next.js, Node.js & TypeScript**.
